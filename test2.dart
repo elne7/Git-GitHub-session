@@ -1,4 +1,5 @@
 void main() {
-  print('test2');
-  print('demo');
+  int a = 5;
+  int b = 10;
+  print(a * b);
 }
